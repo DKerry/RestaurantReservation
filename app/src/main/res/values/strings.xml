@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RestaurantReservation</string>
+    <string name="action_settings">Settings</string>
+    <string name="registerButton">Register</string>
+    <string name="loginButton">Login</string>
+    <string name="usernameField">Username</string>
+    <string name="passwordField">Password</string>
+    <string name="loginButton2">Login</string>
+    <string name="fNameField">First name</string>
+    <string name="lNameField">Last name</string>
+    <string name="emailAddressField">Email Address</string>
+    <string name="registerButton2">Sign me up!</string>
+    <string name="makeButton">Make a reservation</string>
+    <string name="viewButton">View a reservation</string>
+    <string name="updateButton">Update a reservation</string>
+    <string name="deleteButton">Delete a reservation</string>
+    <string name="welcomeMessage" />
+    <string name="damisDiner">Dami\'s Diner</string>
+    <string name="reservationNameField">Name on reservation</string>
+    <string name="contactNumberField">Contact number</string>
+    <string name="dateField" />
+    <string name="timeField" />
+    <string name="bookNowButton">Book now</string>
+</resources>
